@@ -1,0 +1,24 @@
+{
+  "name": "ethereumaddress_generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akkii4/EthereumAddress_Generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Akkii4/EthereumAddress_Generator/issues"
+  },
+  "homepage": "https://github.com/Akkii4/EthereumAddress_Generator#readme",
+  "dependencies": {
+    "ethereumjs-wallet": "^1.0.2",
+    "keccak256": "^1.0.6",
+    "secp256k1": "^4.0.3"
+  }
+}
